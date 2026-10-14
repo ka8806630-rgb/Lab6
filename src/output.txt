@@ -1,0 +1,21 @@
+"C:\Program Files\Java\jdk-23\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2025.3\lib\idea_rt.jar=50955" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\khali\IdeaProjects\Lab6\out\production\Lab6 Main
+Enter ID: 445801929
+Enter Name: khalid
+Enter Age: 22
+Enter Salary (Leave blank or enter 0 if Intern/Student): 990
+
+----------------- HR Records -----------------
+1. [Internship Student] Name: Unknown, Age: 0, ID: 0, Payment: $0.0
+2. [Internship Student] Name: Default Intern, Age: 21, ID: 100, Payment: $0.0
+3. Name: khalid, Age: 22, ID: 445801929, Salary: $990.0
+----------------------------------------------
+Cannot update salary for Student (ID: 100).
+Salary updated successfully for ID 445801929
+
+----------------- HR Records -----------------
+1. [Internship Student] Name: Unknown, Age: 0, ID: 0, Payment: $0.0
+2. [Internship Student] Name: Default Intern, Age: 21, ID: 100, Payment: $0.0
+3. Name: khalid, Age: 22, ID: 445801929, Salary: $4500.0
+----------------------------------------------
+
+Process finished with exit code 0
